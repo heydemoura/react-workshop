@@ -1,0 +1,13 @@
+.Header {
+  background-color: #222;
+}
+
+.HeaderText {
+  display: block;
+  width: 100%;
+}
+
+.HeaderText > small {
+  display: block;
+  width: 100%;
+}
